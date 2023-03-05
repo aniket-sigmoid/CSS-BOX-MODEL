@@ -13,6 +13,7 @@
     height: 100px;
     width: 100px;
     /* box-sizing: border-box; */
+    /* border box when activated takes the height and width specified as sum of content+padding+border */
 
 }
 
