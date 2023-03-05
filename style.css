@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+
+.box-one {
+    background-color: yellowgreen;
+    border: 0 solid green;
+}
+
+.box-two {
+    background-color: rgb(189, 134, 122);
+    border: 0 solid #144ccd;
+}
