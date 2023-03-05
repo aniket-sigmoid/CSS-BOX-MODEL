@@ -7,20 +7,20 @@
 
 .box-one {
     background-color: yellowgreen;
-    border: 0 solid green;
+    border: 20px solid rgb(35, 23, 199);
     padding: 20px;
-    border: 30px;
     margin: 20px;
     height: 100px;
     width: 100px;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
 
 }
 
 .box-two {
     background-color: rgb(189, 134, 122);
-    border: 0 solid #144ccd;
+    border: 20px solid #144ccd;
     padding: 10px;
-    border: 50px;
     margin: 40px;
+    height: 100px;
+    width: 100px;
 }
